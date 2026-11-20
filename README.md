@@ -19,6 +19,7 @@ Each experiment will state the question and assumptions, describe the proposed a
 ## Materials
 
 - **Available:** Chapter 1 — Overview of Wireless Communications ([PDF](slides/chapter-01-overview.pdf) · [PowerPoint](slides/chapter-01-overview.pptx))
+- **Available:** Chapter 2 — Path Loss, Shadowing, and Multipath ([PDF](slides/chapter-02-path-loss-shadowing-multipath.pdf) · [PowerPoint](slides/chapter-02-path-loss-shadowing-multipath.pptx))
 - **Planned first experiment:** Free-space path loss (§2.3). Test how doubling the distance changes received power and use the result as a baseline for more realistic propagation models.
 
 **Reference:** Andrea J. Goldsmith, *Wireless Communications*, Second Edition.
